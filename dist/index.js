@@ -1,8 +1,5 @@
-import dotenv from "dotenv";
-dotenv.config({
-    path: "../.env"
+import app from "./app.js";
+app.listen(3000, () => {
+    console.log("server is listening on 3000");
 });
-let myuser = process.env.username;
-console.log("vale" + myuser);
-import express from "express";
 //# sourceMappingURL=index.js.map

@@ -1,1 +1,1 @@
-{"root":["./src/index.ts"],"version":"5.9.3"}
+{"root":["./src/app.ts","./src/index.ts","./src/config/db.ts","./src/controllers/healthcheck.controller.ts","./src/routes/health.routes.ts","./src/services/api-error.ts","./src/services/api-response.ts","./src/services/async-handler.ts","./src/services/constants.ts"],"version":"5.9.3"}
